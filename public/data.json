@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "Marka": "BMW",
+    "Model": "530",
+    "Buraxılış ili": "2019",
+    "Rəng": "Ağ",
+    "Mühərrik": "[{Mühərrik həcm : 2.0 L}, {At gucu : 249 a.g.},{Mühərrik növü : Benzin}]",
+    "Yürüş": "128 000 km",
+    "Qiymət": "33 700 USD",
+    "Image": "[{https://turbo.azstatic.com/uploads/full/2024%2F11%2F11%2F23%2F10%2F49%2F058f3d02-dc90-471f-b053-20efc0790730%2F15247_eRuz4Do5pS0g3SY6jF6RZg.jpg}]"
+  },
+  {
+    "id": "2",
+    "Marka": "BMW",
+    "Model": "M5",
+    "Buraxılış ili": "2018",
+    "Rəng": "Göy",
+    "Mühərrik": "[{Mühərrik-həcm : 4.4 L}, {At-gucu : 625 a.g.},{Mühərrik-növü : Benzin}]",
+    "Yürüş": "52 000 km",
+    "Qiymət": "89 000 USD"
+  },
+  {
+    "id": "3",
+    "Marka": "Hyundai",
+    "Model": "Grandeur",
+    "Buraxılış ili": "2024",
+    "Rəng": "Qara",
+    "Mühərrik": "[{Mühərrik həcm : 1.6 L}, {At gucu : 230 a.g.},{Mühərrik növü : Hibrit}]",
+    "Yürüş": "0 km",
+    "Qiymət": "80 900 AZN"
+  },
+  {
+    "id": "4",
+    "Marka": "Land Rover",
+    "Model": "Defender",
+    "Buraxılış ili": "2023",
+    "Rəng": "Qara",
+    "Mühərrik": "[{Mühərrik həcm : 3 L}, {At gucu : 400 a.g.},{Mühərrik növü : Benzin}]",
+    "Yürüş": "4 300 km",
+    "Qiymət": "113 500 USD"
+  },
+  {
+    "id": "5",
+    "Marka": "Toyota",
+    "Model": "Camry",
+    "Buraxılış ili": "2022",
+    "Rəng": "Qada",
+    "Mühərrik": "[{Mühərrik həcm : 2.5 L}, {At gucu : 218 a.g.},{Mühərrik növü : Hibrit}]",
+    "Yürüş": "60 600 km",
+    "Qiymət": "28 800 USD"
+  },
+  {
+    "id": "6",
+    "Marka": "MERCEDES",
+    "Model": "GLE 350 4MATIC",
+    "Buraxılış ili": "2023",
+    "Rəng": "Qara",
+    "Mühərrik": "[{Mühərrik həcm : 2 L}, {At gucu : 333 a.g.},{Mühərrik növü : Plug-in Hibrit}]",
+    "Yürüş": "11 500 km",
+    "Qiymət": "78 400 USD"
+  },
+  {
+    "id": "7",
+    "Marka": "Lexus",
+    "Model": "LX 600",
+    "Buraxılış ili": "2023",
+    "Rəng": "Qara",
+    "Mühərrik": "[{Mühərrik həcm : 3.5 L}, {At gucu : 415 a.g.},{Mühərrik növü : Benzin}]",
+    "Yürüş": "15 500 km",
+    "Qiymət": "155 000 USD"
+  },
+  {
+    "id": "8",
+    "Marka": "Nissan",
+    "Model": "Patrol",
+    "Buraxılış ili": "2024",
+    "Rəng": "Qara",
+    "Mühərrik": "[{Mühərrik həcm : 3.5 L}, {At gucu : 425 a.g.},{Mühərrik növü : Benzin}]",
+    "Yürüş": "0 km",
+    "Qiymət": "145 000 USD"
+  }
+]
